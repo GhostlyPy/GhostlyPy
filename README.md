@@ -29,7 +29,7 @@ const ghostlyPy = {
 </a>
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostlypy&theme=merko" alt="Most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostlypy&theme=merko" alt="Most used languages" />
 </a>
 
 ## Projects
