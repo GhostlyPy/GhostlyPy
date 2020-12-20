@@ -1,4 +1,5 @@
-# Trevor
+# GhostlyPy
+
 ### Full-Stack Engineer | Penetration Tester | Web Developer
 
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=linux&logoColor=white&link=https://ghostlypy.github.io/)](https://ghostlypy.github.io/)
@@ -38,7 +39,7 @@ const ghostlyPy = {
 </a>
 
 <a href="https://github.com/GhostlyPy/javascriptbasics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghostlypy&repo=cryptocli&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghostlypy&repo=javascriptbasics&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
 </a>
 
 ## Technologies & Tools:
