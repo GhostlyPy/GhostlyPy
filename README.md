@@ -23,14 +23,14 @@ const ghostlyPy = {
 
 ## Stats:
 
-#### Weekly
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ghostlypy" alt="Weekly Stats" />
+    #### Weekly
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ghostlypy" alt="Weekly stats" />
 </a>
 
-### Most Used Languages
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostlypy&theme=merko" alt="Most use languages" />
+    ### Most Used Languages
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostlypy&theme=merko" alt="Most used languages" />
 </a>
 
 ## Projects
