@@ -11,9 +11,6 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
-
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="left" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -40,6 +37,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 </p>
 
 <!-- Your hits or visitors
@@ -54,13 +54,3 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </p>
 
 ---
-
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/GhostlyPy/GhostlyPy.github.io">
-    <img align="center" src="https://raw.githubusercontent.com/GhostlyPy/GhostlyPy.github.io/master/img/home-bg.jpg" />
-  </a>
-  <a href="https://github.com/GhostlyPy/cryptocli">
-    <img align="center" src="https://raw.githubusercontent.com/GhostlyPy/cryptocli/master/cover.png" />
-  </a>
-</p>
