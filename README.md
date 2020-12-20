@@ -36,21 +36,19 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 </p>
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="center">
+<p align="left">
   <img alt="HitCount" src="http://hits.dwyl.com/ghostlypy/ghostlypy.svg" />
   <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ghostlypy.ghostlypy" />
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/ghostlypy/ghostlypy.svg" />
 </p>
-
----
