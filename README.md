@@ -28,11 +28,7 @@ const ghostlyPy = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostlypy&theme=merko" alt="crnn-pytorch" />
 </a>
 
-[![GhostlyPy's Weekly Contribution](https://github-readme-stats.vercel.app/api/wakatime?username=ghostlypy)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostlypy&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-## Highlight Projects
+## Projects
 
 <a href="https://github.com/GhostlyPy/cryptocli">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghostlypy&repo=cryptocli&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
