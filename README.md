@@ -2,11 +2,6 @@
 
 ### Full-Stack Engineer | Penetration Tester | Web Developer
 
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=linux&logoColor=white&link=https://ghostlypy.github.io/)](https://ghostlypy.github.io/)
-[![YouTube](https://img.shields.io/badge/Youtube-red.svg?&style=flat-square&logo=youtube&logoColor=white&link=https://ghostlypy.github.io/)](https://www.youtube.com/channel/UCnMcOdlU57Bsa5-rbyY7Neg)
-[![Twitter](https://img.shields.io/badge/Twitter-blue.svg?&style=flat-square&logo=twitter&logoColor=white&link=https://ghostlypy.github.io/)](https://twitter.com/GhostlyPy)
-
-### Operating Systems & Tools
 [![](https://img.shields.io/badge/Social-YouTube-informational?style=flat&logo=youtube&logoColor=red&color=6aa6f8)](https://ghostlypy.github.io/)
 [![](https://img.shields.io/badge/Social-Twitter-informational?style=flat&logo=twitter&logoColor=blue&color=6aa6f8)](https://www.youtube.com/channel/UCnMcOdlU57Bsa5-rbyY7Neg)
 [![](https://img.shields.io/badge/Social-Website-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)](https://twitter.com/GhostlyPy)
