@@ -2,9 +2,9 @@
 
 ### Full-Stack Engineer | Penetration Tester | Web Developer
 
-[![](https://img.shields.io/badge/Dev-Website-informational?style=flat&logo=linux&logoColor=white&color=000000)](https://ghostlypy.github.io/)
-[![](https://img.shields.io/badge/Social-Youtube-informational?style=flat&logo=youtube&logoColor=red&color=000000)](https://www.youtube.com/channel/UCnMcOdlU57Bsa5-rbyY7Neg)
-[![](https://img.shields.io/badge/Social-Twitter-informational?style=flat&logo=twitter&logoColor=blue&color=000000)](https://twitter.com/GhostlyPy)
+[![](https://img.shields.io/badge/Dev-Website-informational?style=flat&logo=linux&logoColor=black&color=deepskyblue)](https://ghostlypy.github.io/)
+[![](https://img.shields.io/badge/Social-Youtube-informational?style=flat&logo=youtube&logoColor=red&color=deepskyblue)](https://www.youtube.com/channel/UCnMcOdlU57Bsa5-rbyY7Neg)
+[![](https://img.shields.io/badge/Social-Twitter-informational?style=flat&logo=twitter&logoColor=blue&color=deepskyblue)](https://twitter.com/GhostlyPy)
 
 ```javascript
 const ghostlyPy = {
