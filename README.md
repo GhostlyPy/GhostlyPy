@@ -1,4 +1,4 @@
-### Hi there，I'm Subranium 🙋‍♂️
+### Hi there 🙋‍♂️
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ghostlypy.github.io/)](https://ghostlypy.github.io/)
 
