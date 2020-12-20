@@ -1,54 +1,63 @@
-<!-- Your title -->
-## Full-Stack Engineer | Web Developer | Penetration Tester
+### Hi there，I'm Subranium 🙋‍♂️
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ghostlypy.github.io/)](https://ghostlypy.github.io/)
 
-[![Github](https://img.shields.io/badge/-Github-000?style=plastic&logo=appveyor)](https://github.com/ghostlypy)
-[![YouTube](https://img.shields.io/badge/-youtube-red?style=plastic&logo=appveyor)](https://www.youtube.com/channel/UCnMcOdlU57Bsa5-rbyY7Neg)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=appveyor)](https://www.twitter.com/ghostlypy/)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-&nbsp;
+```javascript
+const ghostlyPy = {
+    Languages: ["HTML", "CSS", "JavaScript", "PHP"],
+        frontEnd: {
+          HTML: ["Pug", "Bootstrap"],
+          CSS: ["Scss"],
+          JavaScript" ["React", "Electron"]
+        },
+        backEnd: {
+            PHP: ["WordPress"]
+        },
+        databases: ["SQLite", "MySQL", "Firebase"]
+    },
+};
+```
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="left" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostlypy&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👨🏽‍💻 I’m currently working on [Visual Basic Snippets for Excel Cheatsheet](https://github.com/GhostlyPy);
-- 🌱 I’m currently learning Artificial Intelligence; 
-- 👯 I’m looking to collaborate on anything 😀 (I'm open to help on any open-source projects!);
-- 🤔 I’m looking for help with Mobile Development;
-- 💬 Ask me about anything, I am happy to help;
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ghostlypy&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=ghostlypy&redirect=true)
 
-**Languages and Tools:** 
+## 🗂️ Highlight Projects
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
+<a href="https://github.com/GhostlyPy/cryptocli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghostlypy&repo=cryptocli&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
+</a>
+
+<a href="https://github.com/GhostlyPy/cryptocli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghostlypy&repo=cryptocli&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
+</a>
+
+### 🧑‍💻  This week, I spent my time on:
+
+[![GhostlyPy's Weekly Contribution](https://github-readme-stats.vercel.app/api/wakatime?username=ghostlypy&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
-  <a href="https://github.com/GhostlyPy">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=ghostlypy&show_icons=true&hide_border=true" />
-  </a>
-  
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+</div>
+<div>
+<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
 </p>
+<br>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="left">
-  <img alt="HitCount" src="http://hits.dwyl.com/ghostlypy/ghostlypy.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ghostlypy.ghostlypy" />
-  <!-- https://github.com/wesky93/views this is a clone of the hits -->
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/ghostlypy/ghostlypy.svg" />
-</p>
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
