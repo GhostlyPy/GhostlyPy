@@ -12,7 +12,7 @@ const ghostlyPy = {
         frontEnd: {
           HTML: ["Pug", "Bootstrap"],
           CSS: ["Scss"],
-          JavaScript" ["React", "Electron"]
+          JavaScript: ["React", "Electron"]
         },
         backEnd: {
             PHP: ["WordPress"]
