@@ -25,7 +25,7 @@ const ghostlyPy = {
 ## Stats:
 
 <a href="">
-  <img align="center" src="https://github.com/anuraghazra/github-readme-stats/blob/master/api/wakatime.js?username=ghostlypy&theme=merko" alt="Weekly stats" />
+  <img align="center" src="https://github.com/anuraghazra/github-readme-stats/blob/master/api/wakatime?username=ghostlypy&theme=merko" alt="Weekly stats" />
 </a>
 
 <a href="">
