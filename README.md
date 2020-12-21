@@ -27,7 +27,6 @@ const ghostlyPy = {
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ghostlypy&theme=merko" alt="Weekly stats" />
 </a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ghostlypy/3eaf4b9f-0dea-48a7-8102-90661ce9687e.png?username=ghostlypy&theme=merko" /></a>
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostlypy&theme=merko" alt="Most used languages" />
