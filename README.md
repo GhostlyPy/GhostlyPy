@@ -21,7 +21,6 @@ const ghostlyPy = {
     },
 };
 ```
-[![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghostlypy&theme=merko)](https://twitter.com/GhostlyPy)
 
 ## Stats:
 
