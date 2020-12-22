@@ -23,10 +23,11 @@ const ghostlyPy = {
 ```
 
 ## Stats:
-
+<!--
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ghostlypy&theme=merko" alt="Weekly stats" />
 </a>
+-->
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostlypy&theme=merko" alt="Most used languages" />
 </a>
