@@ -33,7 +33,7 @@ const ghostlyPy = {
 </a>
 
 ### Spotify Playing 🎵
-[![Spotify](https://spotify-readme-orcin.vercel.app/)](https://open.spotify.com/user/roguegriffin)
+[![Spotify](https://ghostlypy.vercel.app/api/spotify)](https://open.spotify.com/user/roguegriffin)
 
 ## Projects
 
