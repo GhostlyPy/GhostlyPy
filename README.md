@@ -32,6 +32,10 @@ const ghostlyPy = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostlypy&theme=merko" alt="Most used languages" />
 </a>
 
+### Spotify Playing 🎵
+
+[![Spotify](https://spotify-readme.ghostlypy.vercel.app/api/spotify)](https://open.spotify.com/user/GhostlyPy)
+
 ## Projects
 
 <a href="https://github.com/GhostlyPy/cryptocli">
