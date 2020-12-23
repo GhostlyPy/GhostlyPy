@@ -7,19 +7,13 @@
 [![](https://img.shields.io/badge/Social-Twitter-informational?style=flat&logo=twitter&logoColor=blue&color=blue)](https://twitter.com/GhostlyPy)
 
 ```javascript
-const ghostlyPy = {
-    Languages: ["HTML", "CSS", "JavaScript", "PHP"],
-        frontEnd: {
-          HTML: ["Pug", "Bootstrap"],
-          CSS: ["Scss"],
-          JavaScript: ["React", "Electron"]
-        },
-        backEnd: {
-            PHP: ["WordPress"]
-        },
-        databases: ["SQLite", "MySQL", "Firebase"]
-    },
-};
+const ghostlyPy = isDeveloper;
+    
+    if (LangUsed === "HTML, CSS, JavaScript, PHP, Python, MySQL") {
+        alert("Developer!");
+    } else {
+        console.log("ERROR! ERROR! ERROR!");
+    }
 ```
 
 ## Stats:
