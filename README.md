@@ -2,7 +2,7 @@
 
 ### Full-Stack Engineer | Penetration Tester | Web Developer
 
-[![](https://img.shields.io/badge/Dev-Website-informational?style=flat&logo=linux&logoColor=black&color=black)](https://ghostlypy.github.io/)
+<!--[![](https://img.shields.io/badge/Dev-Website-informational?style=flat&logo=linux&logoColor=black&color=black)](https://ghostlypy.github.io/)-->
 [![](https://img.shields.io/badge/Social-Youtube-informational?style=flat&logo=youtube&logoColor=red&color=red)](https://www.youtube.com/channel/UCnMcOdlU57Bsa5-rbyY7Neg)
 [![](https://img.shields.io/badge/Social-Twitter-informational?style=flat&logo=twitter&logoColor=blue&color=blue)](https://twitter.com/GhostlyPy)
 
