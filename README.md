@@ -7,12 +7,14 @@
 [![](https://img.shields.io/badge/Social-Twitter-informational?style=flat&logo=twitter&logoColor=blue&color=blue)](https://twitter.com/GhostlyPy)
 
 ```javascript
-const ghostlyPy = isDeveloper;
+    const isDeveloper = "yes"; // Never change to No. Will break code.
+    const ghostlyPy = isDeveloper;
+    const langUsed = "HTML, CSS, JavaScript, PHP, Python, MySQL";
     
-    if (LangUsed === "HTML, CSS, JavaScript, PHP, Python, MySQL") {
+    if (langUsed === "HTML, CSS, JavaScript, PHP, Python, MySQL" && ghostlyPy === "yes") {
         alert("Developer!");
     } else {
-        console.log("ERROR! ERROR! ERROR!");
+        alert("ERROR! ERROR! ERROR!");
     }
 ```
 
