@@ -9,9 +9,9 @@
 ```javascript
     const isDeveloper = "yes"; // Never change to no. Will break code.
     const ghostlyPy = isDeveloper;
-    const langUsed = "HTML, CSS, JavaScript, PHP, Python, MySQL";
+    const langsUsed = "HTML, CSS, JavaScript, PHP, Python, MySQL";
     
-    if (langUsed === "HTML, CSS, JavaScript, PHP, Python, MySQL" && isDeveloper === "yes") {
+    if (langsUsed === "HTML, CSS, JavaScript, PHP, Python, MySQL" && isDeveloper === "yes") {
         alert("Developer!");
     } else {
         alert("ERROR! ERROR! ERROR!");
