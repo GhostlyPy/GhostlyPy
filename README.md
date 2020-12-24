@@ -11,7 +11,7 @@
     const ghostlyPy = isDeveloper;
     const langUsed = "HTML, CSS, JavaScript, PHP, Python, MySQL";
     
-    if (langUsed === "HTML, CSS, JavaScript, PHP, Python, MySQL" && ghostlyPy === "yes") {
+    if (langUsed === "HTML, CSS, JavaScript, PHP, Python, MySQL" && isDeveloper === "yes") {
         alert("Developer!");
     } else {
         alert("ERROR! ERROR! ERROR!");
