@@ -27,11 +27,7 @@
 <a href="">
   <img align="center" src="https://github-readme-stats-fbw46yh48.vercel.app/api/wakatime?username=ghostlypy&theme=merko" alt="Weekly stats" />
 </a>
-<!--
-### Spotify Playing 🎵
 
-[![Spotify](https://ghostlypy.vercel.app/api/spotify)](https://open.spotify.com/user/roguegriffin)
--->
 ## Projects
 
 <a href="https://github.com/GhostlyPy/image_classifier">
