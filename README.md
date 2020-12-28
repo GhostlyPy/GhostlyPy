@@ -18,7 +18,7 @@
     }
 ```
 
-## Stats:
+## Stats
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostlypy&theme=merko" alt="Most used languages" />
@@ -37,5 +37,3 @@
 <a href="https://github.com/GhostlyPy/cryptocli">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghostlypy&repo=cryptocli&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="" />
 </a>
-
-#### This is still under development, but enjoy the first version!
